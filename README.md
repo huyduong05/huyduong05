@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">A computer science undergraduate student at San Jose State University.</h3>
 
+- 🔭 I’m interested in **full-stack development, cloud engineering, and AI/ML**
+
+- 🌱 I’m currently looking for **Spring/Summer/Fall 2025 Software Engineering Internship**
+
+- 💬 Ask me about **volleyball, thrifting, and Bay Area food spots**
+
+- 📫 How to reach me **huyduong.business@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huy-n-duong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy-n-duong" height="30" width="40" /></a>
