@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Huy
-I am an aspriring software engineer, currently studying Computer Science at San Jose State University.
+I am an aspiring software engineer, currently studying Computer Science at San Jose State University.
 
 ### About me
 
@@ -58,4 +58,4 @@ Checkout some highlights:
 </div>
 
 ### Let's Connect!   
-<a href="https://linkedin.com/in/huy-n-duong" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy-n-duong" height="40" width="30" /></a>
+<a href="https://linkedin.com/in/huy-n-duong" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy-n-duong" height="40" width="30" /></a>
