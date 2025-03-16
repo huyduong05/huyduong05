@@ -30,7 +30,7 @@ I am an aspiring software engineer, currently studying Computer Science at San J
 Checkout some highlights: 
 - 🤖 [TogoBot](https://github.com/huyduong05/Togo-Bot) - An Autonomous Delivery Robot for the SJSU
 - 👀 [Lookout](https://devpost.com/software/lookout-hiknf9?) - An AI-powered surveillance system
-- 🔤 [Wordle Replication](https://github.com/huyduong05/WordleReplication) - A recreation of the NYT web game Wordle
+- 🔤 [Spartan Outreach](https://github.com/kevintsoii/Alumni-Connection-Platform) - A social platform to connect current SJSU students with SJSU alumni
 
 ### I code with
 <div align="left">
