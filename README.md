@@ -3,7 +3,7 @@
 -->
 
 # Hi 👋, I'm Huy
-I am a 2x SWE Intern @ Nutanix and CS @ SJSU. I have experience with creating **AI systems and backend infrastructure**
+I am a previous 2x SWE Intern @ Nutanix and CS @ SJSU graduating May 2027. I have experience with creating **AI systems and backend infrastructure**
 Feel free to reach me at **huyduong.business@gmail.com** or on LinkedIn [https://linkedin.com/in/huy-n-duong](url)
 
 ### 🛠️ Projects
@@ -16,9 +16,9 @@ Check out some highlights:
 
 ### I code with
 ```
-Languages: Python, Java, C, SQL
+Languages: Python, Java, Javascript, SQL, R
 Frontend: React.js, Next.js, TailwindCSS
 Backend: Flask, FastAPI, Django, FastMCP
-Developer Tools: Git, Docker, Postman, VS Code, Cursor, IntelliJ, PyCharm
+Developer Tools: Git, Docker, Postman, Jenkins, VS Code, Cursor
 Databases: MongoDB, MySQL, Cassandra, Redis, Neo4j
 ```
